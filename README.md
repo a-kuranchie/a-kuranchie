@@ -5,7 +5,7 @@
 * 🌍  I'm based in Accra, Ghana  
 * 🖥️  See my portfolio at [kuranchie.vercel.app](http://kuranchie.vercel.app)  
 * ✉️  You can contact me at [kaynkuranchie@gmail.com](mailto:kaynkuranchie@gmail.com)  
-* 🚀  I'm currently working on [Unitrack (Frontend) | A student attendance app](http://github.com/Adjei-Kuranchie/unitrack-v2) and an Ecommerce app  
+* 🚀  I'm currently working on [Unitrack (Frontend) | A student attendance app](http://github.com/Adjei-Kuranchie/unitrack-v2)  
 * 🧠  I'm learning React Native & Next js  
 * 🤝  I'm open to collaborating on frontend projects which are react centered  
 
