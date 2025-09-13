@@ -9,8 +9,8 @@
 
 I'm a detail-oriented software engineer specializing in frontend development with React and modern JavaScript frameworks. Based in Accra, Ghana, I build responsive, user-friendly web applications with clean, maintainable code.
 
-- 🔭 **Current Project:** [UniTrack](https://github.com/Adjei-Kuranchie/unitrack-v2) - A student attendance tracking application
-- 🌱 **Learning:** React Native & Next.js
+- 🔭 **Current Project:** None at the moment
+- 🌱 **Learning:** GSAP with React & Next.js
 - 👯 **Open to:** Collaborating on React-centered frontend projects
 - 🌍 **Location:** Accra, Ghana
 
