@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-kuranchie.vercel.app-blue)](https://kuranchie.vercel.app)
 [![Email](https://img.shields.io/badge/Email-kaynkuranchie%40gmail.com-red)](mailto:kaynkuranchie@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kuranchie-0077B5)](https://www.linkedin.com/in/kuranchie)
-[![GitHub](https://img.shields.io/badge/GitHub-Adjei--Kuranchie-181717)](https://github.com/Adjei-Kuranchie)
+[![GitHub](https://img.shields.io/badge/GitHub-Adjei--Kuranchie-181717)](https://github.com/a-kuranchie)
 
 I'm a detail-oriented software engineer specializing in frontend development with React and modern JavaScript frameworks. Based in Accra, Ghana, I build responsive, user-friendly web applications with clean, maintainable code.
 
@@ -55,11 +55,11 @@ I'm a detail-oriented software engineer specializing in frontend development wit
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adjei-Kuranchie&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adjei-Kuranchie's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-kuranchie&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adjei-Kuranchie's GitHub stats" height="180" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adjei-Kuranchie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-kuranchie&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adjei-Kuranchie&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-kuranchie&langs_count=6&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180" />
 </div>
 
 ## 📱 Connect With Me
@@ -68,7 +68,7 @@ I'm a detail-oriented software engineer specializing in frontend development wit
   <a href="https://www.linkedin.com/in/kuranchie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Adjei-Kuranchie" target="_blank">
+  <a href="https://github.com/a-kuranchie" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="http://www.instagram.com/kuranchie.a" target="_blank">
